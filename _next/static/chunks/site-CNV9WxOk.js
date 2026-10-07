@@ -1,0 +1,1 @@
+var e=`Bu tasarım önizlemesinde hesap işlemleri kapalı. Tam sürüm yerel MYOLAB sunucusunda çalışır.`;function t(e){return e.startsWith(`/`)?`/MyoLab-onizleme`+e:e}function n(e){return e===`/MyoLab-onizleme`?`/`:e.startsWith(`/MyoLab-onizleme/`)?e.slice(16):e}export{n,t as r,e as t};
